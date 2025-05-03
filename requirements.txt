@@ -1,7 +1,8 @@
 streamlit
 pandas
+numpy
+matplotlib
+seaborn
+geopandas
 folium
 streamlit-folium
-geopy
-python-dotenv
-openai
