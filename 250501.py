@@ -6,7 +6,7 @@ import matplotlib.font_manager as fm
 import streamlit as st
 import matplotlib.ticker as ticker  # 추가
 
-plt.rcParams['font.family'] = 'Malgun Gothic'
+plt.rcParams['font.family'] = 'NanumGothic Gothic'
 
 
 # 1) 비밀번호 설정
