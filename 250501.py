@@ -6,7 +6,7 @@ import matplotlib.font_manager as fm
 import streamlit as st
 import matplotlib.ticker as ticker  # 추가
 
-plt.rcParams['font.family'] = 'NanumGothic Gothic'
+plt.rcParams['font.family'] = 'NanumGothic'
 plt.rcParams['axes.unicode_minus'] = False  # 음수 부호 깨짐 방지
 
 # 1) 비밀번호 설정
